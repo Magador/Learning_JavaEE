@@ -1,4 +1,4 @@
-# Learning_JavaEE
+# Learning Java EE
 Pile of documentation, blog articles, and others links
 
 ## Documentation
