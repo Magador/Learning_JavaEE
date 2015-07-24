@@ -12,7 +12,8 @@ Pile of documentation, blog articles, and others links
 
 - [Java Platform, Enterprise Edition: The Java EE Tutorial](https://docs.oracle.com/javaee/7/tutorial/)
 - [Jersey 2.19 User Guide](https://jersey.java.net/documentation/latest/)
-
+- [MOXy XML or JSON](http://www.eclipse.org/eclipselink/#moxy)
+- [Jackson Project Home @github](https://github.com/FasterXML/jackson)
 
 ## Blogs Articles
 
