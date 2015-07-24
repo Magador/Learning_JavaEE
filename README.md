@@ -17,3 +17,8 @@ Pile of documentation, blog articles, and others links
 
 - [Creating a RESTful Web Service](http://blog.bdoughan.com/2010/08/creating-restful-web-service-part-15.html) (by Blaise Doughan)
 - [MOXy is the New Default JSON-Binding Provider in GlassFish 4](https://dzone.com/articles/moxy-new-default-json-binding)
+
+
+## Demos
+
+ -[Java EE 7 Samples](https://github.com/javaee-samples/javaee7-samples)
