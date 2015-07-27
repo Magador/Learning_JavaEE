@@ -14,6 +14,7 @@ Pile of documentation, blog articles, and others links
 - [Jersey 2.19 User Guide](https://jersey.java.net/documentation/latest/)
 - [MOXy XML or JSON](http://www.eclipse.org/eclipselink/#moxy)
 - [Jackson Project Home](http://wiki.fasterxml.com/JacksonHome)
+- [Jackson Documentation](https://github.com/FasterXML/jackson-docs)
 
 ## Blogs Articles
 
