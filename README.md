@@ -8,6 +8,11 @@ Pile of documentation, blog articles, and others links
 - [Java(TM) EE 7 Specification APIs](https://docs.oracle.com/javaee/7/api/)
 - [Java™ Platform, Standard Edition 7 API Specification](https://docs.oracle.com/javase/7/docs/api/)
 
+### Specifications
+
+- [JAXB Spec](http://download.oracle.com/otn-pub/jcp/jaxb-2.0-fr-eval-oth-JSpec/jaxb-2_0-fr-spec.pdf)
+- [JAX-RS Spec](http://download.oracle.com/otn-pub/jcp/jaxrs-2_0-fr-eval-spec/jsr339-jaxrs-2.0-final-spec.pdf)
+
 ### User Guides
 
 - [Java Platform, Enterprise Edition: The Java EE Tutorial](https://docs.oracle.com/javaee/7/tutorial/)
